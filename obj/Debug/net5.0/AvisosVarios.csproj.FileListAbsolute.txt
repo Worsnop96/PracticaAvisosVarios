@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\AvisosVarios\bin\Debug\net5.0\AvisosVarios.exe
+C:\Users\dylan\source\repos\AvisosVarios\bin\Debug\net5.0\AvisosVarios.deps.json
+C:\Users\dylan\source\repos\AvisosVarios\bin\Debug\net5.0\AvisosVarios.runtimeconfig.json
+C:\Users\dylan\source\repos\AvisosVarios\bin\Debug\net5.0\AvisosVarios.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\AvisosVarios\bin\Debug\net5.0\AvisosVarios.dll
+C:\Users\dylan\source\repos\AvisosVarios\bin\Debug\net5.0\ref\AvisosVarios.dll
+C:\Users\dylan\source\repos\AvisosVarios\bin\Debug\net5.0\AvisosVarios.pdb
+C:\Users\dylan\source\repos\AvisosVarios\obj\Debug\net5.0\AvisosVarios.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\AvisosVarios\obj\Debug\net5.0\AvisosVarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\AvisosVarios\obj\Debug\net5.0\AvisosVarios.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\AvisosVarios\obj\Debug\net5.0\AvisosVarios.AssemblyInfo.cs
+C:\Users\dylan\source\repos\AvisosVarios\obj\Debug\net5.0\AvisosVarios.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\AvisosVarios\obj\Debug\net5.0\AvisosVarios.dll
+C:\Users\dylan\source\repos\AvisosVarios\obj\Debug\net5.0\ref\AvisosVarios.dll
+C:\Users\dylan\source\repos\AvisosVarios\obj\Debug\net5.0\AvisosVarios.pdb
+C:\Users\dylan\source\repos\AvisosVarios\obj\Debug\net5.0\AvisosVarios.genruntimeconfig.cache
